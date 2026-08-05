@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -46,4 +47,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
