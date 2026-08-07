@@ -17,6 +17,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+| [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
@@ -61,4 +62,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 <!---LeetCode Topics End-->
