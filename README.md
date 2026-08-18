@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+| [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1025-divisor-game/) | Easy |
@@ -78,5 +79,10 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 <!---LeetCode Topics End-->
