@@ -20,6 +20,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+| [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
@@ -58,6 +59,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
+| [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 ## Greedy
@@ -85,4 +87,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
+## Floyd's Cycle Finding Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 <!---LeetCode Topics End-->
