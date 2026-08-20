@@ -12,6 +12,7 @@
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -78,6 +79,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
+| [3069-distribute-elements-into-two-arrays-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
