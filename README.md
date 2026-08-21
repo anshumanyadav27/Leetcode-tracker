@@ -8,6 +8,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
@@ -49,6 +50,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
@@ -56,6 +58,7 @@
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -81,6 +84,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -118,4 +122,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+## Quickselect
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 <!---LeetCode Topics End-->
