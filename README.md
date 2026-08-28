@@ -84,6 +84,7 @@
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -113,6 +114,7 @@
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,4 +161,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
+## Enumeration
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 <!---LeetCode Topics End-->
