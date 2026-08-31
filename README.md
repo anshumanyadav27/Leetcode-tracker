@@ -30,6 +30,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0007-reverse-integer/) | Medium |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
