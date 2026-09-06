@@ -57,6 +57,7 @@
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0070-climbing-stairs](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
+| [0115-distinct-subsequences](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0115-distinct-subsequences/) | Hard |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1025-divisor-game/) | Easy |
 ## Game Theory
@@ -124,6 +125,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0058-length-of-last-word](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0058-length-of-last-word/) | Easy |
 | [0067-add-binary](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0067-add-binary/) | Easy |
+| [0115-distinct-subsequences](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0115-distinct-subsequences/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
