@@ -48,6 +48,7 @@
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -123,6 +124,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
+| [2413-smallest-even-multiple](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## String
 | Problem Name | Difficulty |
