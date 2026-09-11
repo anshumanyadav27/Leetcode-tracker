@@ -20,6 +20,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -94,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -148,6 +150,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 ## Floyd's Cycle Finding Algorithm
@@ -190,6 +193,7 @@
 ## Enumeration
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Union-Find
 | Problem Name | Difficulty |
