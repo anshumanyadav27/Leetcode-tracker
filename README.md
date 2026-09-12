@@ -20,6 +20,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
@@ -34,6 +35,7 @@
 | [0035-search-insert-position](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -66,6 +68,7 @@
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1025-divisor-game/) | Easy |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -81,6 +84,7 @@
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3536-maximum-product-of-two-digits/) | Easy |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
