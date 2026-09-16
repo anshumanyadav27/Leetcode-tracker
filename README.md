@@ -55,6 +55,7 @@
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [1025-divisor-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1025-divisor-game/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2413-smallest-even-multiple](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -73,6 +74,7 @@
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1025-divisor-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1025-divisor-game/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 ## Game Theory
@@ -183,6 +185,7 @@
 ## Combinatorics
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 ## Quickselect
 | Problem Name | Difficulty |
@@ -232,6 +235,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3903-smallest-stable-index-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Counting Sort
