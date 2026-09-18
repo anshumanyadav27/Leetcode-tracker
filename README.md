@@ -94,6 +94,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3414-maximum-score-of-non-overlapping-intervals/) | Hard |
 | [3536-maximum-product-of-two-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3536-maximum-product-of-two-digits/) | Easy |
@@ -128,6 +129,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2091-removing-minimum-and-maximum-from-array/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Divide and Conquer
@@ -157,6 +159,7 @@
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
@@ -172,6 +175,7 @@
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
