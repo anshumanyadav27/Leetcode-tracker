@@ -147,6 +147,7 @@
 | [0067-add-binary](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3498-reverse-degree-of-a-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -166,6 +167,7 @@
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
+| [3498-reverse-degree-of-a-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3734-lexicographically-smallest-palindromic-permutation-greater-than-target/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
