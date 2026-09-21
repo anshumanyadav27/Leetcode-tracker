@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0015-3sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
@@ -94,6 +95,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0015-3sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
@@ -123,6 +125,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
+| [0015-3sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
