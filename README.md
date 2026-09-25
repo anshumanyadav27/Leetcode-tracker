@@ -107,6 +107,7 @@
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
@@ -176,6 +177,7 @@
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0940-distinct-subsequences-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0940-distinct-subsequences-ii/) | Hard |
+| [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
@@ -186,12 +188,14 @@
 | ------- | ------- |
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0962-maximum-width-ramp/) | Medium |
+| [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -255,6 +259,7 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3568-minimum-moves-to-clean-the-classroom/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -297,4 +302,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3525-find-x-value-of-array-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3525-find-x-value-of-array-ii/) | Hard |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 <!---LeetCode Topics End-->
