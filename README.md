@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
+| [0078-subsets](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0137-single-number-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
@@ -224,6 +225,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0067-add-binary](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0067-add-binary/) | Easy |
+| [0078-subsets](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -322,6 +324,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0078-subsets](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0078-subsets/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Bracket Sequences
 | Problem Name | Difficulty |
