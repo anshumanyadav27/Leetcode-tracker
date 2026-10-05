@@ -201,6 +201,7 @@
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0389-find-the-difference](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0389-find-the-difference/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0940-distinct-subsequences-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0940-distinct-subsequences-ii/) | Hard |
 | [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -218,6 +219,7 @@
 | [0032-longest-valid-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0227-basic-calculator-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0227-basic-calculator-ii/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [0962-maximum-width-ramp](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0962-maximum-width-ramp/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
@@ -359,6 +361,7 @@
 | [0022-generate-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0856-score-of-parentheses/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
