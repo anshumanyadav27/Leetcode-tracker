@@ -15,9 +15,9 @@ public:
                 int score;
 
                 if (x == 0)
-                    score = 1;       // ()
+                    score = 1;
                 else
-                    score = 2 * x;   // (A)
+                    score = 2 * x;
 
                 st.top() += score;
             }
