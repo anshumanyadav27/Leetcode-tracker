@@ -65,6 +65,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0007-reverse-integer/) | Medium |
+| [0029-divide-two-integers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0029-divide-two-integers/) | Medium |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
 | [0067-add-binary](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0070-climbing-stairs](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0070-climbing-stairs/) | Easy |
@@ -267,6 +268,7 @@
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0029-divide-two-integers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0029-divide-two-integers/) | Medium |
 | [0067-add-binary](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0067-add-binary/) | Easy |
 | [0078-subsets](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0137-single-number-ii/) | Medium |
