@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0335-self-crossing](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0335-self-crossing/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0835-image-overlap/) | Medium |
@@ -79,6 +80,7 @@
 | [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0335-self-crossing](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0335-self-crossing/) | Hard |
 | [0509-fibonacci-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0836-rectangle-overlap/) | Easy |
 | [0877-stone-game](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0877-stone-game/) | Medium |
@@ -379,6 +381,7 @@
 ## Geometry
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0335-self-crossing](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0335-self-crossing/) | Hard |
 | [0836-rectangle-overlap](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0836-rectangle-overlap/) | Easy |
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 ## Monotonic Stack
