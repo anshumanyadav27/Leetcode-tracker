@@ -87,6 +87,7 @@
 | [0258-add-digits](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0258-add-digits/) | Easy |
 | [0263-ugly-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0263-ugly-number/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0326-power-of-three](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [0335-self-crossing](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0335-self-crossing/) | Hard |
 | [0509-fibonacci-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0509-fibonacci-number/) | Easy |
 | [0836-rectangle-overlap](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0836-rectangle-overlap/) | Easy |
@@ -171,6 +172,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0050-powx-n/) | Medium |
+| [0326-power-of-three](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0326-power-of-three/) | Easy |
 | [0509-fibonacci-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0509-fibonacci-number/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Two Pointers
