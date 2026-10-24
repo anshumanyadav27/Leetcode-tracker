@@ -97,6 +97,7 @@
 | [1401-circle-and-rectangle-overlapping](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1401-circle-and-rectangle-overlapping/) | Medium |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [2409-count-days-spent-together](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2409-count-days-spent-together/) | Easy |
 | [2413-smallest-even-multiple](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2413-smallest-even-multiple/) | Easy |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
 | [3524-find-x-value-of-array-i](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3524-find-x-value-of-array-i/) | Medium |
@@ -251,6 +252,7 @@
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
+| [2409-count-days-spent-together](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2409-count-days-spent-together/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3498-reverse-degree-of-a-string/) | Easy |
