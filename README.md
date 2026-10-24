@@ -17,6 +17,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0335-self-crossing](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0335-self-crossing/) | Hard |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -69,6 +70,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -186,6 +188,7 @@
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -299,6 +302,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -307,6 +311,7 @@
 | [0078-subsets](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0078-subsets/) | Medium |
 | [0137-single-number-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0137-single-number-ii/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0389-find-the-difference](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0389-find-the-difference/) | Easy |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2897-apply-operations-on-array-to-maximize-sum-of-squares/) | Hard |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/3116-kth-smallest-amount-with-single-denomination-combination/) | Hard |
@@ -454,4 +459,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
+## Pigeonhole Principle
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 <!---LeetCode Topics End-->
