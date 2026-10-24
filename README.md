@@ -13,6 +13,7 @@
 | [0053-maximum-subarray](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0053-maximum-subarray/) | Medium |
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0078-subsets/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0137-single-number-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0137-single-number-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
@@ -143,6 +144,7 @@
 | ------- | ------- |
 | [0015-3sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
@@ -186,6 +188,7 @@
 | [0011-container-with-most-water](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0015-3sum/) | Medium |
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
+| [0088-merge-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
