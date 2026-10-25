@@ -20,6 +20,7 @@
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0335-self-crossing](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0335-self-crossing/) | Hard |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0835-image-overlap](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0835-image-overlap/) | Medium |
@@ -72,6 +73,7 @@
 | [0035-search-insert-position](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0035-search-insert-position/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -148,6 +150,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0389-find-the-difference/) | Easy |
 | [0912-sort-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -193,6 +196,7 @@
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
 | [0344-reverse-string](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0344-reverse-string/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0962-maximum-width-ramp](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0962-maximum-width-ramp/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
@@ -287,6 +291,7 @@
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
 | [0242-valid-anagram](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
+| [0350-intersection-of-two-arrays-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
 | [0389-find-the-difference](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0389-find-the-difference/) | Easy |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
