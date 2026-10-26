@@ -30,6 +30,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1470-shuffle-the-array/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
@@ -157,6 +158,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [2089-find-target-indices-after-sorting-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -297,6 +299,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0448-find-all-numbers-disappeared-in-an-array/) | Easy |
 | [0560-subarray-sum-equals-k](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1520-maximum-number-of-non-overlapping-substrings/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -402,6 +405,7 @@
 | ------- | ------- |
 | [0912-sort-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
