@@ -30,6 +30,7 @@
 | [0977-squares-of-a-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
 | [1254-number-of-closed-islands](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1254-number-of-closed-islands/) | Medium |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1470-shuffle-the-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1470-shuffle-the-array/) | Easy |
