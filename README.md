@@ -16,6 +16,7 @@
 | [0088-merge-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0137-single-number-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0137-single-number-ii/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0283-move-zeroes](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0283-move-zeroes/) | Easy |
 | [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
@@ -151,6 +152,7 @@
 | [0075-sort-colors](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
+| [0229-majority-element-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -293,6 +295,7 @@
 | ------- | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0003-longest-substring-without-repeating-characters/) | Medium |
 | [0202-happy-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0202-happy-number/) | Easy |
+| [0229-majority-element-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0242-valid-anagram](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0242-valid-anagram/) | Easy |
 | [0268-missing-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0268-missing-number/) | Easy |
 | [0350-intersection-of-two-arrays-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0350-intersection-of-two-arrays-ii/) | Easy |
@@ -404,6 +407,7 @@
 ## Counting Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0229-majority-element-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 | [0912-sort-an-array](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0912-sort-an-array/) | Medium |
 | [1051-height-checker](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1051-height-checker/) | Easy |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/1365-how-many-numbers-are-smaller-than-the-current-number/) | Easy |
@@ -481,4 +485,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0287-find-the-duplicate-number](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0287-find-the-duplicate-number/) | Medium |
+## Boyer–Moore Majority Vote Algorithm
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0229-majority-element-ii](https://github.com/anshumanyadav27/Leetcode-tracker/tree/main/0229-majority-element-ii/) | Medium |
 <!---LeetCode Topics End-->
